@@ -1,4 +1,5 @@
 import * as React from "react"
+import Working from "./working"
 
 // styles
 const pageStyles = {
@@ -130,6 +131,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Home Page</title>
+      <Working></Working>
       <h1 style={headingStyles}>
         Congratulations
         <br />
