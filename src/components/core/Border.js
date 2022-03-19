@@ -16,7 +16,7 @@ export const Border = (props) => {
             borderStyle: lineType,
             borderRadius: radius,
             color: color,
-            lineWidth: lineWidth,
+            borderWidth: lineWidth,
         }}>
             {children}
         </div>
