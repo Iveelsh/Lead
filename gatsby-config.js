@@ -11,5 +11,6 @@ module.exports = {
           accessToken: `yCZqvcqyso48MAcgAFBIxCfRybOFUQEiLI6s_9p1cwU`,
         },
       },
+      'gatsby-plugin-image'
     ],
 }
